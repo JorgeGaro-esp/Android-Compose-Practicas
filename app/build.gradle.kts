@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.practica_1"
+    namespace = "com.example.AndroidPracticas"
     compileSdk {
         version = release(37)
     }

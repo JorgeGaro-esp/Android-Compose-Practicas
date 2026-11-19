@@ -18,7 +18,7 @@ Todo está en un único proyecto de Android Studio, y cada ejercicio es una pant
 ## Estructura
 
 ```
-app/src/main/java/com/example/practica_1/
+app/src/main/java/com/example/AndroidPracticas/
 ├── MainActivity.kt
 ├── data/      Comunidad.kt, ListaComunidades.kt
 ├── ui/theme/  Color.kt, Theme.kt, Type.kt

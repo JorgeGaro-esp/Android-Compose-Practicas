@@ -1,4 +1,4 @@
-package com.example.practica_1.vistas
+package com.example.AndroidPracticas.vistas
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Column
@@ -19,9 +19,9 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.practica_1.data.Comunidad
-import com.example.practica_1.data.listaComunidades
-import com.example.practica_1.ui.theme.Practica1Theme
+import com.example.AndroidPracticas.data.Comunidad
+import com.example.AndroidPracticas.data.listaComunidades
+import com.example.AndroidPracticas.ui.theme.Practica1Theme
 
 @Composable
 fun TarjetaComunidad(comunidad: Comunidad, modifier: Modifier = Modifier) {

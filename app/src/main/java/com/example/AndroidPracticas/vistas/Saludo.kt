@@ -1,4 +1,4 @@
-package com.example.practica_1.vistas
+package com.example.AndroidPracticas.vistas
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
@@ -13,8 +13,8 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.practica_1.R
-import com.example.practica_1.ui.theme.Practica1Theme
+import com.example.AndroidPracticas.R
+import com.example.AndroidPracticas.ui.theme.Practica1Theme
 
 @Composable
 fun Greeting(name: String, modifier: Modifier = Modifier) {

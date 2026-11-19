@@ -1,4 +1,4 @@
-package com.example.practica_1.vistas
+package com.example.AndroidPracticas.vistas
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.clickable
@@ -14,7 +14,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.painterResource
-import com.example.practica_1.R
+import com.example.AndroidPracticas.R
 import kotlin.random.Random
 
 @Composable

@@ -1,4 +1,4 @@
-package com.example.practica_1.vistas
+package com.example.AndroidPracticas.vistas
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column

@@ -1,4 +1,4 @@
-package com.example.practica_1.vistas
+package com.example.AndroidPracticas.vistas
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
@@ -22,7 +22,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.example.practica_1.R
+import com.example.AndroidPracticas.R
 import kotlin.random.Random
 
 

@@ -1,4 +1,4 @@
-package com.example.practica_1.data
+package com.example.AndroidPracticas.data
 
 class Comunidad( val nombre: String, val capital: String, val bandera: Int) {
 

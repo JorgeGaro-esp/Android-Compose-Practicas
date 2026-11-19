@@ -1,6 +1,6 @@
-package com.example.practica_1.data
+package com.example.AndroidPracticas.data
 
-import com.example.practica_1.R
+import com.example.AndroidPracticas.R
 
 /** Datos de las comunidades autónomas que muestra la pantalla de Comunidades. */
 val listaComunidades = listOf(
